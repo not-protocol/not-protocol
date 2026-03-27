@@ -35,7 +35,7 @@ From simple scripts to advanced bots, I enjoy creating things that *just work*.
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?not-protocol_USERNAME&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?not-protocol_not-protocol&show_icons=true&theme=dark)
 
 ---
 
