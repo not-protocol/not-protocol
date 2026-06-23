@@ -109,26 +109,6 @@ I don't just want to use tools — I want to understand how they work under the 
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=not-protocol&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Rohan's GitHub profile trophies" />
-</div>
-
-
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=not-protocol&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Rohan's top contributed repositories" />
-</div>
-
----
-## 🔝 Top Contributed Repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=not-protocol&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
 
 ## 🌐 Connect
@@ -143,7 +123,3 @@ I don't just want to use tools — I want to understand how they work under the 
 -->
 
 ---
-
-<p align="center">
-  <em>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></em>
-</p>
