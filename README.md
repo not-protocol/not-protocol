@@ -1,12 +1,14 @@
 <div align="center">
 
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00FF41&height=200&section=header&text=ROHAN&fontSize=80&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Python%20%7C%20Automation&descAlignY=58&descSize=18&descColor=aaffcc" alt="Header — Rohan, Cybersecurity | Python | Automation" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Network+Analyst+%F0%9F%8C%90;Building+ShadowPort+Scanner+%F0%9F%9A%80;%22Can+this+be+automated%3F%22+%E2%80%94+Yes." alt="Typing animation: Cybersecurity Enthusiast, Python Developer, Network Analyst, Building ShadowPort Scanner" />
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your_.env)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/you_env)
 ![Profile Views](https://komarev.com/ghpvc/?username=not-protocol&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- ⚠️ ACTION REQUIRED: Confirm Instagram handle — "you_env" vs "not-protocol" -->
@@ -156,7 +158,12 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=not-protocol&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Rohan's GitHub profile trophies" />
+<!-- 
+  github-profile-trophy.vercel.app is frequently overloaded (402 errors).
+  This uses the official community mirror maintained by hesreallyhim — same project, more reliable.
+  Source: https://github.com/ryo-ma/github-profile-trophy#-use-theme
+-->
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=not-protocol&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Rohan's GitHub profile trophies" />
 
 </div>
 
@@ -166,7 +173,14 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=not-protocol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&hide_border=true" alt="Rohan's top contributed repositories" />
+<!--
+  github-contributor-stats.vercel.app is down (402).
+  Replaced with github-profile-summary-cards which shows per-repo contribution breakdown
+  and is actively maintained. Source: https://github.com/vn7n24fzkq/github-profile-summary-cards
+-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=not-protocol&theme=tokyonight" alt="Rohan's repos by language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=not-protocol&theme=tokyonight" alt="Rohan's most committed languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=not-protocol&theme=tokyonight&utcOffset=5.5" alt="Rohan's most productive coding hours (IST)" />
 
 </div>
 
@@ -188,3 +202,6 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00FF41&height=100&section=footer" alt="Footer wave" />
 </div>
 
+<p align="center">
+  <em>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></em>
+</p>
