@@ -172,6 +172,3 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00FF41&height=100&section=footer" alt="Footer wave decoration" />
 </div>
 
-<p align="center">
-  <em>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></em>
-</p>
