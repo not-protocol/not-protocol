@@ -115,12 +115,6 @@ I don't just want to use tools — I want to understand how they work under the 
   <img src="https://github-profile-trophy.vercel.app/?username=not-protocol&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Rohan's GitHub profile trophies" />
 </div>
 
----
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=not-protocol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 
 ## 🔝 Top Contributed Repos
@@ -130,6 +124,12 @@ I don't just want to use tools — I want to understand how they work under the 
 </div>
 
 ---
+## 🔝 Top Contributed Repos
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=not-protocol&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 
 ## 🌐 Connect
 
