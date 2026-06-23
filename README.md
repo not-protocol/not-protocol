@@ -4,23 +4,7 @@
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Network+Analyst+%F0%9F%8C%90;Building+ShadowPort+Scanner+%F0%9F%9A%80;%22Can+this+be+automated%3F%22+%E2%80%94+Yes." alt="Typing animation: rotating identity phrases" />
 
-<br/>
 
-<!-- Social badges -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/you_env)
-<!-- ⚠️ ACTION REQUIRED: Confirm handle above — "you_env" vs "not-protocol" -->
-
-<!-- Uncomment to add more:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
--->
-
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=not-protocol&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
 
 ## `> whoami`
 
