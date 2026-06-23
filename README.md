@@ -193,5 +193,3 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 <p align="center">
   <em>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></em>
 </p>
-
----
