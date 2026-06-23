@@ -184,7 +184,7 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 
 ## 🌐 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/you_.env)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your_.env)
 
 <!-- Add more socials by uncommenting and filling in your handles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
