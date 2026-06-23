@@ -116,6 +116,12 @@ I don't just want to use tools — I want to understand how they work under the 
 </div>
 
 ---
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=not-protocol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
 ## 🔝 Top Contributed Repos
 
