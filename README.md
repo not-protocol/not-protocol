@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/you_env)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your_.env)
 ![Profile Views](https://komarev.com/ghpvc/?username=not-protocol&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- ⚠️ ACTION REQUIRED: Confirm Instagram handle — "you_env" vs "not-protocol" -->
@@ -188,6 +188,3 @@ I'm passionate about **cybersecurity**, **Python development**, and **network an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00FF41&height=100&section=footer" alt="Footer wave" />
 </div>
 
-<p align="center">
-  <em>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></em>
-</p>
