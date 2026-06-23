@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/you_env)
-![Profile Views](https://komarev.com/ghpvc/?username=not-protocol&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- ⚠️ ACTION REQUIRED: Confirm Instagram handle — "you_env" vs "not-protocol" -->
 
