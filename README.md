@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00FF41&height=200&section=header&text=ROHAN&fontSize=80&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Python%20%7C%20Automation&descAlignY=58&descSize=18&descColor=aaffcc" alt="Header — Rohan, Cybersecurity | Python | Automation" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Network+Analyst+%F0%9F%8C%90;Building+ShadowPort+Scanner+%F0%9F%9A%80;%22Can+this+be+automated%3F%22+%E2%80%94+Yes." alt="Typing animation: Cybersecurity Enthusiast, Python Developer, Network Analyst, Building ShadowPort Scanner" />
