@@ -7,7 +7,7 @@
 <br/>
 
 
-<!-- ⚠️ ACTION REQUIRED: Confirm Instagram handle — "you_env" vs "not-protocol" -->
+<!-- ⚠️ ACTION REQUIRED: Confirm Instagram handle — "your_.env" vs "not-protocol" -->
 
 </div>
 
